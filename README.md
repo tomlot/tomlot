@@ -6,7 +6,7 @@
 * acoustic theory teaching
 * acoustic crossover design
   
-##I'd like to
+## I'd like to
 
 - 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on...
